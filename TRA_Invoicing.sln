@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRA_Invoicing_Console", "TRA_Invoicing_Console\TRA_Invoicing_Console.csproj", "{960D03FB-D3C0-42C2-99D1-68C7DB15CB54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{802D23D2-F9B2-4B58-A1C4-3A9858F6076B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960D03FB-D3C0-42C2-99D1-68C7DB15CB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960D03FB-D3C0-42C2-99D1-68C7DB15CB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960D03FB-D3C0-42C2-99D1-68C7DB15CB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960D03FB-D3C0-42C2-99D1-68C7DB15CB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33009CAE-21B6-4E1A-B78D-E4A9F3EC1C85}
+	EndGlobalSection
+EndGlobal
